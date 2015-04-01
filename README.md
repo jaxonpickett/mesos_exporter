@@ -1,4 +1,4 @@
-# Forked this repo with the goal of adapting to send data to Graphite instead of Prometheus
+### Forked this repo with the goal of adapting to send data to Graphite instead of Prometheus
 
 
 
