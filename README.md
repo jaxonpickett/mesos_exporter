@@ -1,3 +1,7 @@
+# Forked this repo with the goal of adapting to send data to Graphite instead of Prometheus
+
+
+
 # Prometheus Mesos exporter
 
 This is an exporter for Prometheus to get Mesos data.
